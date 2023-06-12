@@ -1,2 +1,2 @@
-# weather_app
-it contains a weather app that fetch live weather and uses weather API for live weather. languages used HTML, CSS , JavaScript
+# Weather-App-JS
+A weather app developed using javascript with weather API
